@@ -14,7 +14,7 @@
 ![MySql](https://img.shields.io/badge/-MySql-black?style=flat-square&logo=mariadb)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 ![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu-bash)
-![SqLite](https://img.shields.io/badge/-SqLite-black?style=flat-square&logo=gnu-bash)
+![SqLite](https://img.shields.io/badge/-SqLite-black?style=flat-square&logo=gnu-sqlite)
 
 ---
 
