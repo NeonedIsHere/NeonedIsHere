@@ -11,9 +11,10 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-![MariaDB](https://img.shields.io/badge/-MySql-black?style=flat-square&logo=mariadb)
+![MySql](https://img.shields.io/badge/-MySql-black?style=flat-square&logo=mariadb)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 ![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu-bash)
+![SqLite](https://img.shields.io/badge/-SqLite-black?style=flat-square&logo=gnu-bash)
 
 ---
 
