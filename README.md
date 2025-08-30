@@ -1,4 +1,4 @@
-<h1 align="center">Salut, moi c'est akaan47 👋</h1>
+<h1 align="center">Salut, moi c'est Neoned Is Here 👋</h1>
 
 <p align="center">
   Passionné de code et de projets fullstack 🔐⚙️
@@ -11,7 +11,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-![MariaDB](https://img.shields.io/badge/-MariaDB-black?style=flat-square&logo=mariadb)
+![MariaDB](https://img.shields.io/badge/-MySql-black?style=flat-square&logo=mariadb)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 ![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu-bash)
 
