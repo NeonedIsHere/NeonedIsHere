@@ -1,8 +1,13 @@
-<h1 align="center">Salut, moi c'est Neoned Is Here 👋</h1>
+<h1 align="center">👋 Salut, moi c'est <span style="color:#00ffe2">Neoned Is Here</span></h1>
 
 <p align="center">
-  Passionné de code et de projets fullstack 🔐⚙️
+  🔐 Passionné de développement fullstack, sécurité & automation ⚙️<br>
+  💻 Code, projets, Linux et un peu de café ☕
 </p>
+
+---
+
+<img src="https://i.imgur.com/w1XbgxV.gif" width="100%">
 
 ---
 
@@ -12,9 +17,20 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![MySql](https://img.shields.io/badge/-MySql-black?style=flat-square&logo=mariadb)
+![SqLite](https://img.shields.io/badge/-SqLite-black?style=flat-square&logo=sqlite)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 ![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu-bash)
-![SqLite](https://img.shields.io/badge/-SqLite-black?style=flat-square&logo=gnu-sqlite)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+
+---
+
+## 🛠️ Projets récents
+
+- 🤖 [RaidSecur](https://github.com/NeonedIsHere/raidsecur) : Bot Discord de sécurité avancée 🔒
+- 🎮 [Bot RP](https://github.com/NeonedIsHere/rpbot) : Bot roleplay avec métiers, banque et événements 💼
+- 🌐 [Exia Dashboard](https://github.com/NeonedIsHere/exia-dashboard) : Dashboard responsive et moderne 📊
 
 ---
 
@@ -38,8 +54,15 @@
 
 ---
 
+## 🌍 Réseaux & Contact
 
-## ✨
+[![Discord](https://img.shields.io/badge/Discord-Join%20me-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/exia)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/NeonedIsHere)
+[![Mail](https://img.shields.io/badge/Email-Contact%20me-red?style=flat-square&logo=gmail&logoColor=white)](mailto:neoned@example.com)
+
+---
+
+## ✨ Divers
 
 ![Profile views](https://komarev.com/ghpvc/?username=NeonedIsHere&color=blueviolet)
 ![Followers](https://img.shields.io/github/followers/NeonedIsHere?label=Followers&style=social)
@@ -47,7 +70,4 @@
 
 ---
 
-## 📫 Contact 
-
-
-discord.gg/exia
+> *"Code, eat, sleep, repeat."* 🚀
