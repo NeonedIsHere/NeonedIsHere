@@ -7,7 +7,7 @@
 
 ---
 
-<img src="https://i.imgur.com/w1XbgxV.gif" width="100%">
+<img src="https://imgur.com/gallery/its-true-UXd28xy" width="100%">
 
 ---
 
