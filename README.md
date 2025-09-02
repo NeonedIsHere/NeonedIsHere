@@ -2,7 +2,7 @@
 
 <p align="center">
   🔐 Passionné de développement fullstack, sécurité & automation ⚙️<br>
-  💻 Code, projets, Linux et un peu de café ☕
+  💻 Code, projets, Linux et un peu chocolat chaud ☕
 </p>
 
 ---
