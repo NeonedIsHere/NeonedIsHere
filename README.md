@@ -44,12 +44,14 @@
 
 ## 🔥 Streaks
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=NeonedIsHere&theme=dark&hide_border=true&border_radius=5&locale=fr&date_format=j%20M%5B%20Y%5D&card_width=680&card_height=240)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=NeonedIsHere&theme=dark&hide_border=true&border_radius=5&locale=fr&date_format=j%20M%5B%20Y%5D&card_width=680&card_height=240)
 ---
 
 ## 📈 Activité récente
 
 [![Graph](https://github-readme-activity-graph.vercel.app/graph?username=NeonedIsHere&bg_color=0d1117&color=00ffea&line=00ffe2&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Neoned's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NeonedIsHere)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
