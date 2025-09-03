@@ -44,8 +44,7 @@
 
 ## 🔥 Streaks
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NeonedIsHere&theme=tokyonight&hide_border=true)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=NeonedIsHere&theme=dark&hide_border=true&border_radius=5&locale=fr&date_format=j%20M%5B%20Y%5D&card_width=680&card_height=240)](https://git.io/streak-stats)
 ---
 
 ## 📈 Activité récente
